@@ -1,0 +1,16 @@
+{
+    "description": "A self-bio ",
+
+    "domain": "is-cool.dev",
+    "subdomain": "*.1001011",
+
+    "owner": {
+        "repo": "https://github.com/elijahmcdougal3/Register.",
+        "email": "elijah.mcdougall@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "elijahmcdougal3.github.io"
+    },
+    "proxied": false
+}
